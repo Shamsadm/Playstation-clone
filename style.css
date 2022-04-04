@@ -22,19 +22,19 @@ footer{
 } */
 
 #masthead1{
-    background-image: url('/Images/returnal-ascension-hero-banner-desktop-01-ps5-en-01mar22.jfif');
+    background-image: url('/Playstation-clone/Images/returnal-ascension-hero-banner-desktop-01-ps5-en-01mar22.jfif');
 }
 #masthead2{
-    background-image: url('/Images/ghostwire-tokyo-hero-banner-desktop-01-ps5-en-15mar22.jfif');
+    background-image: url('/Playstation-clone/Images/ghostwire-tokyo-hero-banner-desktop-01-ps5-en-15mar22.jfif');
 }
 #masthead3{
-    background-image: url('/Images/apex-legends-hero-banner-desktop-01-en-26jan21.jfif');
+    background-image: url('/Playstation-clone/Images/apex-legends-hero-banner-desktop-01-en-26jan21.jfif');
 }
 #masthead4{
-    background-image: url('/Images/tiny-tinas-wonderland-hero-banner-desktop-01-ps4-ps5-en-10dec21.jfif');
+    background-image: url('/Playstation-clone/Images/tiny-tinas-wonderland-hero-banner-desktop-01-ps4-ps5-en-10dec21.jfif');
 }
 #masthead5{
-    background-image: url('/Images/genshin-impact-2-6-update-hero-banner-desktop-01-ps4-en-16mar22.jfif');
+    background-image: url('/Playstation-clone/Images/genshin-impact-2-6-update-hero-banner-desktop-01-ps4-en-16mar22.jfif');
 }
 
 
@@ -59,7 +59,7 @@ footer{
 {
     #masthead1{
         height: 100vh;
-        background-image: url('/Images//returnal-ascension-hero-banner-mobile-01-ps5-en-01mar22.jfif');
+        background-image: url('/Playstation-clone/Images//returnal-ascension-hero-banner-mobile-01-ps5-en-01mar22.jfif');
         background-position:center ;
         background-size: cover;
         
@@ -67,7 +67,7 @@ footer{
     }
     #masthead2{
         height: 100vh;
-        background-image: url('/Images/ghostwire-tokyo-hero-banner-mobile-01-ps5-en-15mar22.jfif');
+        background-image: url('/Playstation-clone/Images/ghostwire-tokyo-hero-banner-mobile-01-ps5-en-15mar22.jfif');
         background-position:center ;
         background-size: cover;
         
@@ -75,7 +75,7 @@ footer{
     }
     #masthead3{
         height: 100vh;
-        background-image: url('/Images/apex-legends-huge-hero-mobile-01-ps4-en-21mar22.jfif');
+        background-image: url('/Playstation-clone/Images/apex-legends-huge-hero-mobile-01-ps4-en-21mar22.jfif');
         background-position:center ;
         background-size: cover;
         
@@ -83,7 +83,7 @@ footer{
     }
     #masthead4{
         height: 100vh;
-        background-image: url('/Images/tiny-tinas-wonderland-hero-banner-mobile-01-ps4-ps5-en-10dec21.jfif');
+        background-image: url('/Playstation-clone/Images/tiny-tinas-wonderland-hero-banner-mobile-01-ps4-ps5-en-10dec21.jfif');
         background-position:center ;
         background-size: cover;
         
@@ -91,7 +91,7 @@ footer{
     }
     #masthead5{
         height: 100vh;
-        background-image: url('/Images/genshin-impact-2-6-update-hero-banner-mobile-01-ps4-en-16mar22.jfif');
+        background-image: url('/Playstation-clone/Images/genshin-impact-2-6-update-hero-banner-mobile-01-ps4-en-16mar22.jfif');
         background-position:center ;
         background-size: cover;
         
