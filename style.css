@@ -1,0 +1,111 @@
+.navigationbar{
+    font-size: small;
+}
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.masthead{
+    height: 100vh;
+    
+    background-position:center ;
+    background-size: cover;
+    display: none;
+    
+}
+footer{
+    background-color: rgb(0, 67, 156);
+}
+/* .masthead.active{
+    display: none;
+} */
+
+#masthead1{
+    background-image: url('/Images/returnal-ascension-hero-banner-desktop-01-ps5-en-01mar22.jfif');
+}
+#masthead2{
+    background-image: url('/Images/ghostwire-tokyo-hero-banner-desktop-01-ps5-en-15mar22.jfif');
+}
+#masthead3{
+    background-image: url('/Images/apex-legends-hero-banner-desktop-01-en-26jan21.jfif');
+}
+#masthead4{
+    background-image: url('/Images/tiny-tinas-wonderland-hero-banner-desktop-01-ps4-ps5-en-10dec21.jfif');
+}
+#masthead5{
+    background-image: url('/Images/genshin-impact-2-6-update-hero-banner-desktop-01-ps4-en-16mar22.jfif');
+}
+
+
+@media (min-width: 768px) {
+    .masthead div{
+        width: 75%;
+    }
+    .masthead div img{
+        width: 75%;
+    } 
+}
+@media (min-width: 992px) {
+    .masthead div{
+        width: 50%;
+        
+    }
+    .masthead div img{
+        width: 50%;
+    }
+}
+@media (max-width: 768px)
+{
+    #masthead1{
+        height: 100vh;
+        background-image: url('/Images//returnal-ascension-hero-banner-mobile-01-ps5-en-01mar22.jfif');
+        background-position:center ;
+        background-size: cover;
+        
+        
+    }
+    #masthead2{
+        height: 100vh;
+        background-image: url('/Images/ghostwire-tokyo-hero-banner-mobile-01-ps5-en-15mar22.jfif');
+        background-position:center ;
+        background-size: cover;
+        
+        
+    }
+    #masthead3{
+        height: 100vh;
+        background-image: url('/Images/apex-legends-huge-hero-mobile-01-ps4-en-21mar22.jfif');
+        background-position:center ;
+        background-size: cover;
+        
+        
+    }
+    #masthead4{
+        height: 100vh;
+        background-image: url('/Images/tiny-tinas-wonderland-hero-banner-mobile-01-ps4-ps5-en-10dec21.jfif');
+        background-position:center ;
+        background-size: cover;
+        
+        
+    }
+    #masthead5{
+        height: 100vh;
+        background-image: url('/Images/genshin-impact-2-6-update-hero-banner-mobile-01-ps4-en-16mar22.jfif');
+        background-position:center ;
+        background-size: cover;
+        
+        
+    }
+}
+.aboutList1 a{
+    text-decoration: none;
+    color: white;
+}
+.aboutList1 li{
+    list-style:none;
+}
+.aboutList1 li p{
+    padding: 0;
+    
+}
